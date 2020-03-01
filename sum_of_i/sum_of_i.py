@@ -9,4 +9,4 @@ def sum1(n):
 # much more efficient
 # algo in jupyter file
 def sum2(n):
-    return n*(n+1)/2
+    return (n*(n+1))/2
